@@ -1,4 +1,4 @@
-bokeh-background-generator
+Bokeh background generator
 ==========================
 
-Bokeh background generator
+TODO: make this
