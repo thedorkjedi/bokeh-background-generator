@@ -21,7 +21,7 @@
 	canvas.style.width = window.innerWidth + "px";
 	canvas.style.height = window.innerHeight + "px";
 	canvas.style.overflow = "hidden";
-	canvas.style.position = "relative";
+	canvas.style.position = "absolute";
 
 	while( canvas.hasChildNodes() ){
 		canvas.removeChild(canvas.lastChild);
